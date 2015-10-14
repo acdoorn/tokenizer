@@ -1,0 +1,43 @@
+D:\Data\Dropbox\Thuis\Tokenizer\Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe.config
+C:\Users\Remi\Dropbox\Software Architecture\Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe.config
+C:\Users\Remi\Dropbox\Software Architecture\Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe
+C:\Users\Remi\Dropbox\Software Architecture\Tokenizer\Tokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\Remi\Dropbox\Software Architecture\Tokenizer\Tokenizer\obj\Debug\Tokenizer.csprojResolveAssemblyReference.cache
+C:\Users\Remi\Dropbox\Software Architecture\Tokenizer\Tokenizer\obj\Debug\Tokenizer.exe
+C:\Users\Remi\Dropbox\Software Architecture\Tokenizer\Tokenizer\obj\Debug\Tokenizer.pdb
+E:\Software Architectuur\DP2\week2 tokenizer\Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe.config
+E:\Software Architectuur\DP2\week2 tokenizer\Tokenizer\Tokenizer\obj\Debug\Tokenizer.exe
+E:\Software Architectuur\DP2\week2 tokenizer\Tokenizer\Tokenizer\obj\Debug\Tokenizer.pdb
+E:\Software Architectuur\DP2\week2 tokenizer\Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe
+E:\Software Architectuur\DP2\week2 tokenizer\Tokenizer\Tokenizer\bin\Debug\Tokenizer.pdb
+E:\Software Architectuur\DP2\week2 tokenizer\Tokenizer\Tokenizer\obj\Debug\Tokenizer.csprojResolveAssemblyReference.cache
+D:\Data\Dropbox\Software Architecture\Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe.config
+D:\Data\Dropbox\Software Architecture\Tokenizer\Tokenizer\obj\Debug\Tokenizer.exe
+D:\Data\Dropbox\Software Architecture\Tokenizer\Tokenizer\obj\Debug\Tokenizer.pdb
+D:\Data\Dropbox\Software Architecture\Tokenizer\Tokenizer\obj\Debug\Tokenizer.csprojResolveAssemblyReference.cache
+D:\Data\Dropbox\Software Architecture\Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe
+D:\Data\Dropbox\Software Architecture\Tokenizer\Tokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\Tim\Dropbox\Software Architecture\Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe.config
+C:\Users\Tim\Dropbox\Software Architecture\Tokenizer\Tokenizer\obj\Debug\Tokenizer.exe
+C:\Users\Tim\Dropbox\Software Architecture\Tokenizer\Tokenizer\obj\Debug\Tokenizer.pdb
+C:\Users\Tim\Dropbox\Software Architecture\Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe
+C:\Users\Tim\Dropbox\Software Architecture\Tokenizer\Tokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\Tim\Dropbox\Software Architecture\Tokenizer\Tokenizer\obj\Debug\Tokenizer.csprojResolveAssemblyReference.cache
+C:\Users\rbsloot\Downloads\Tokenizer\Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe.config
+C:\Users\rbsloot\Downloads\Tokenizer\Tokenizer\Tokenizer\obj\Debug\Tokenizer.exe
+C:\Users\rbsloot\Downloads\Tokenizer\Tokenizer\Tokenizer\obj\Debug\Tokenizer.pdb
+F:\Software Architectuur\DP2\week2 tokenizer\Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe.config
+F:\Software Architectuur\DP2\week2 tokenizer\Tokenizer\Tokenizer\obj\Debug\Tokenizer.exe
+F:\Software Architectuur\DP2\week2 tokenizer\Tokenizer\Tokenizer\obj\Debug\Tokenizer.pdb
+C:\Users\Remi\Dropbox\Software_Architecture\Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe.config
+C:\Users\Remi\Dropbox\Software_Architecture\Tokenizer\Tokenizer\obj\Debug\Tokenizer.exe
+C:\Users\Remi\Dropbox\Software_Architecture\Tokenizer\Tokenizer\obj\Debug\Tokenizer.pdb
+C:\Users\Remi\Dropbox\Software_Architecture\Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe
+C:\Users\Remi\Dropbox\Software_Architecture\Tokenizer\Tokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\Remi\Dropbox\Software_Architecture\Tokenizer\Tokenizer\obj\Debug\Tokenizer.csprojResolveAssemblyReference.cache
+C:\Users\THE\Desktop\tokenizer\Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe.config
+C:\Users\THE\Desktop\tokenizer\Tokenizer\Tokenizer\obj\Debug\Tokenizer.exe
+C:\Users\THE\Desktop\tokenizer\Tokenizer\Tokenizer\obj\Debug\Tokenizer.pdb
+C:\Users\THE\Desktop\tokenizer\Tokenizer\Tokenizer\bin\Debug\Tokenizer.exe
+C:\Users\THE\Desktop\tokenizer\Tokenizer\Tokenizer\bin\Debug\Tokenizer.pdb
+C:\Users\THE\Desktop\tokenizer\Tokenizer\Tokenizer\obj\Debug\Tokenizer.csprojResolveAssemblyReference.cache
